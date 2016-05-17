@@ -1,0 +1,10 @@
+{
+	"name": "vibe.d-websocket-exemple",
+	"description": "A simple vibe.d websocket exemple.",
+	"copyright": "Copyright © 2016, ogromny",
+	"authors": ["ogromny"],
+	"dependencies": {
+		"vibe-d": "~>0.7.23"
+	},
+	"versions": ["VibeDefaultMain"]
+}
